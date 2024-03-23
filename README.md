@@ -21,4 +21,4 @@ Front-End : ReactJS, ViteJS, TailwindCSS, Javascript.
 # Links
 
 * Deploy link : https://priyaochi.netlify.app/
-* Project Link :
+* Project Link : https://github.com/priya940/Ochi
