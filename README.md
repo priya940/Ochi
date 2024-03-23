@@ -20,5 +20,5 @@ Front-End : ReactJS, ViteJS, TailwindCSS, Javascript.
 
 # Links
 
-* Deploy link : 
+* Deploy link : https://priyaochi.netlify.app/
 * Project Link :
